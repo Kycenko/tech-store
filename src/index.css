@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.darkBody {
+    background-color: rgb(17 24 39 / 1);
+}
+.darkBody p {
+    color: white;
+}
+.darkBody h1 {
+    color: white;
+}
+.darkBody h2 {
+    color: black;
+}
+.darkBody label {
+    color: white;
+}
+.darkBody select {
+    color: black;
+}

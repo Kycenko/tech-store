@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "title": "Смартфон Apple iPhone 12",
+      "price": 1100,
+      "description": "11",
+      "category": "Электроника",
+      "images": [
+        "https://mobillife.by/images/virtuemart/product/30052886b.jpg",
+        "https://mobillife.by/images/virtuemart/product/30052886b.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxDJdb6EbcP2K_NyRN-Ie2CfKwaIfHdV23rw&usqp=CAU"
+      ],
+      "id": 1
+    },
+    {
+      "title": "Смартфон Samsung Galaxy S23",
+      "price": 2500,
+      "description": "11",
+      "category": "Электроника",
+      "images": [
+        "https://avatars.mds.yandex.net/get-mpic/4466428/img_id7536997588281709130.jpeg/orig",
+        "https://images.samsung.com/is/image/samsung/p6pim/uk/2302/gallery/uk-galaxy-s23-ultra-clear-case-ef-qs918-ef-qs918ctegww-534918744?$650_519_PNG$",
+        "https://images.samsung.com/is/image/samsung/p6pim/uk/2302/gallery/uk-galaxy-s23-ultra-clear-case-ef-qs918-ef-qs918ctegww-534918744?$650_519_PNG$"
+      ],
+      "id": 2
+    },
+    {
+      "title": "Смартфон  iPhone 12",
+      "price": 2323,
+      "description": "11",
+      "category": "Электроника",
+      "images": [
+        "https://mobillife.by/images/virtuemart/product/30052886b.jpg",
+        "https://mobillife.by/images/virtuemart/product/30052886b.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxDJdb6EbcP2K_NyRN-Ie2CfKwaIfHdV23rw&usqp=CAU"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Смартфон Apple iPhone 12",
+      "price": 1900,
+      "description": "11",
+      "category": "Электроника",
+      "images": [
+        "https://mobillife.by/images/virtuemart/product/30052886b.jpg",
+        "https://mobillife.by/images/virtuemart/product/30052886b.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxDJdb6EbcP2K_NyRN-Ie2CfKwaIfHdV23rw&usqp=CAU"
+      ],
+      "id": 4
+    },
+    {
+      "title": "Samsung Galaxy S21",
+      "price": 2000,
+      "description": "Смартфон",
+      "category": "Смартфоны",
+      "images": [
+        "https://proxymedia.woopic.com/api/v1/images/1618%2Fedithor%2Fterminaux%2F636x900-mobile-1_%281%29_63760907f0527a37028c154b.jpg",
+        "https://proxymedia.woopic.com/api/v1/images/1618%2Fedithor%2Fterminaux%2F636x900-mobile-1_%281%29_63760907f0527a37028c154b.jpg",
+        "https://proxymedia.woopic.com/api/v1/images/1618%2Fedithor%2Fterminaux%2F636x900-mobile-1_%281%29_63760907f0527a37028c154b.jpg"
+      ],
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "",
+      "visibleName": "Все товары"
+    },
+    {
+      "id": 1,
+      "name": "Электроника",
+      "visibleName": "Электроника"
+    },
+    {
+      "id": 2,
+      "name": "Разное",
+      "visibleName": "Разное"
+    },
+    {
+      "visibleName": "Смартфоны",
+      "id": 3
+    },
+    {
+      "visibleName": "Приколы",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "name": "admin",
+      "role": "admin",
+      "avatar": "https://wallpapercave.com/w/wp7347161",
+      "basket": {
+        "item": []
+      },
+      "history": {},
+      "id": 1
+    }
+  ],
+  "reviews": []
+}
